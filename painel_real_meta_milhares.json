@@ -1,0 +1,34 @@
+{
+  "is_synthetic": false,
+  "fonte": "UN Comtrade + CEPII Gravity + World Bank WDI + World Bank Pink Sheet",
+  "n_obs": 22400,
+  "n_paises": 207,
+  "n_commodities": 10,
+  "anos": [
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "centros_preditores": {
+    "ln_pib_parc": 24.230400518353054,
+    "ln_pib_pc_parc": 8.898579749133956,
+    "ln_dist": 9.085157467021372,
+    "cambio": 0.2961354887845172,
+    "preco_lag": 2.7289840143516724
+  },
+  "Y_unidade": "valor exportado em milhares de US$ (arredondado)",
+  "pct_zeros": 0.6601785714285714,
+  "media": 37503.91044642857,
+  "variancia": 334485506901.2431,
+  "razao_var_media": 8918683.489793144,
+  "maximo": 38917721,
+  "nota": "Painel com Y em valor exportado em milhares de US$ (arredondado). Preditores e estrutura identicos aos das demais versoes do painel."
+}

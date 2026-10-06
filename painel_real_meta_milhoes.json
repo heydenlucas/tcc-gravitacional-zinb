@@ -1,0 +1,30 @@
+{
+  "is_synthetic": false,
+  "fonte": "UN Comtrade + CEPII Gravity + World Bank WDI + World Bank Pink Sheet",
+  "n_obs": 22400,
+  "n_paises": 207,
+  "n_commodities": 10,
+  "anos": [
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "centros_preditores": {
+    "ln_pib_parc": 24.230400518353054,
+    "ln_pib_pc_parc": 8.898579749133956,
+    "ln_dist": 9.085157467021372,
+    "cambio": 0.2961354887845172,
+    "preco_lag": 2.7289840143516724
+  },
+  "Y_unidade": "valor exportado em milhoes de US$ (arredondado)",
+  "pct_zeros": 0.7692410714285715,
+  "nota": "acordo_sanitario = proxy 'exportou em 2000-2013'; cambio = competitividade bilateral do BRL; CEPII 2022-2024 = carry-forward de 2021."
+}
